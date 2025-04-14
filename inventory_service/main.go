@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	pb "github.com/Wasay1576/GRPC/proto/inventory"
+	pb "github.com/Wasay1567/GRPC/proto/inventory"
 
 	"google.golang.org/grpc"
 )

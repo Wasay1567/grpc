@@ -3,7 +3,8 @@ package main
 import (
 	"log"
 	"net"
-	pb "github.com/Wasay1576/GRPC/proto/order"
+
+	pb "github.com/Wasay1567/GRPC/proto/order"
 	"google.golang.org/grpc"
 )
 

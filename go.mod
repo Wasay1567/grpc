@@ -1,4 +1,4 @@
-module github.com/Wasay1576/GRPC
+module github.com/Wasay1567/GRPC
 
 go 1.24.0
 

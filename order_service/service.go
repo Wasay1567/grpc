@@ -4,8 +4,8 @@ import (
 	"context"
 	"log"
 
-	inventorypb "github.com/Wasay1576/GRPC/proto/inventory"
-	orderpb "github.com/Wasay1576/GRPC/proto/order"
+	inventorypb "github.com/Wasay1567/GRPC/proto/inventory"
+	orderpb "github.com/Wasay1567/GRPC/proto/order"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 )

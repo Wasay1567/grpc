@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	pb "github.com/Wasay1576/GRPC/proto/inventory"
+	pb "github.com/Wasay1567/GRPC/proto/inventory"
 )
 
 var inventory = map[string]int32{
